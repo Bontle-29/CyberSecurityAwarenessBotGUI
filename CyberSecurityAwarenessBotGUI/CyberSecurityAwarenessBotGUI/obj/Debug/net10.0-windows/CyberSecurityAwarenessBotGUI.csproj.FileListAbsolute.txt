@@ -1,0 +1,16 @@
+C:\Users\desir\source\repos\CyberSecurityAwarenessBotGUI\CyberSecurityAwarenessBotGUI\obj\Debug\net10.0-windows\CyberSecurityAwarenessBotGUI.Form1.resources
+C:\Users\desir\source\repos\CyberSecurityAwarenessBotGUI\CyberSecurityAwarenessBotGUI\obj\Debug\net10.0-windows\CyberSecurityAwarenessBotGUI.csproj.GenerateResource.cache
+C:\Users\desir\source\repos\CyberSecurityAwarenessBotGUI\CyberSecurityAwarenessBotGUI\obj\Debug\net10.0-windows\CyberSecurityAwarenessBotGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desir\source\repos\CyberSecurityAwarenessBotGUI\CyberSecurityAwarenessBotGUI\obj\Debug\net10.0-windows\CyberSecurityAwarenessBotGUI.AssemblyInfoInputs.cache
+C:\Users\desir\source\repos\CyberSecurityAwarenessBotGUI\CyberSecurityAwarenessBotGUI\obj\Debug\net10.0-windows\CyberSecurityAwarenessBotGUI.AssemblyInfo.cs
+C:\Users\desir\source\repos\CyberSecurityAwarenessBotGUI\CyberSecurityAwarenessBotGUI\obj\Debug\net10.0-windows\CyberSecurityAwarenessBotGUI.csproj.CoreCompileInputs.cache
+C:\Users\desir\source\repos\CyberSecurityAwarenessBotGUI\CyberSecurityAwarenessBotGUI\bin\Debug\net10.0-windows\CyberSecurityAwarenessBotGUI.exe
+C:\Users\desir\source\repos\CyberSecurityAwarenessBotGUI\CyberSecurityAwarenessBotGUI\bin\Debug\net10.0-windows\CyberSecurityAwarenessBotGUI.deps.json
+C:\Users\desir\source\repos\CyberSecurityAwarenessBotGUI\CyberSecurityAwarenessBotGUI\bin\Debug\net10.0-windows\CyberSecurityAwarenessBotGUI.runtimeconfig.json
+C:\Users\desir\source\repos\CyberSecurityAwarenessBotGUI\CyberSecurityAwarenessBotGUI\bin\Debug\net10.0-windows\CyberSecurityAwarenessBotGUI.dll
+C:\Users\desir\source\repos\CyberSecurityAwarenessBotGUI\CyberSecurityAwarenessBotGUI\bin\Debug\net10.0-windows\CyberSecurityAwarenessBotGUI.pdb
+C:\Users\desir\source\repos\CyberSecurityAwarenessBotGUI\CyberSecurityAwarenessBotGUI\obj\Debug\net10.0-windows\CyberSecurityAwarenessBotGUI.dll
+C:\Users\desir\source\repos\CyberSecurityAwarenessBotGUI\CyberSecurityAwarenessBotGUI\obj\Debug\net10.0-windows\refint\CyberSecurityAwarenessBotGUI.dll
+C:\Users\desir\source\repos\CyberSecurityAwarenessBotGUI\CyberSecurityAwarenessBotGUI\obj\Debug\net10.0-windows\CyberSecurityAwarenessBotGUI.pdb
+C:\Users\desir\source\repos\CyberSecurityAwarenessBotGUI\CyberSecurityAwarenessBotGUI\obj\Debug\net10.0-windows\CyberSecurityAwarenessBotGUI.genruntimeconfig.cache
+C:\Users\desir\source\repos\CyberSecurityAwarenessBotGUI\CyberSecurityAwarenessBotGUI\obj\Debug\net10.0-windows\ref\CyberSecurityAwarenessBotGUI.dll
